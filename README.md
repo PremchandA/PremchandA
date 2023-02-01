@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+> I am Premchand A from warangal, India. 
+> I was graduated in 2019 and i have 3 years of experience in IT as a oracle db Engineer.
+> I am currently pursuing masters in NorthWest missouri State University.
+> I was really glad to get a masters degree and feeling excited to work as a IT professional in united states. 
+> I am really interested to work as a Devops engineer in any organisation.
+> I came united states in january 2023 and got much excited to stay in states. 
+> I am loooking to collaborate on with devops engineers to enhance my knowledge.
+
 <!--
 **PremchandA/PremchandA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
